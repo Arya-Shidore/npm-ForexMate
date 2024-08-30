@@ -1,0 +1,28 @@
+{
+  "name": "forexmate",
+  "version": "1.0.0",
+  "description": "npm package to convert currency",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arya-Shidore/npm-ForexMate.git"
+  },
+  "keywords": [
+    "npm",
+    "currency",
+    "converter"
+  ],
+  "author": "Arya Shidore",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Arya-Shidore/npm-ForexMate/issues"
+  },
+  "homepage": "https://github.com/Arya-Shidore/npm-ForexMate#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
