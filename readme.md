@@ -12,7 +12,11 @@ To install `forexmate`, use npm:
 ## Usage
 
 Here’s a basic example of how to use `forexmate`:
-![alt text](<Screenshot 2024-08-30 at 10.39.36 PM.png>)
+![alt text](<Screenshot 2024-08-30 at 11.09.11 PM.png>)
+<br>
+<br>
+![alt text](<Screenshot 2024-08-30 at 11.09.19 PM.png>)
+
 
 ## API
 
